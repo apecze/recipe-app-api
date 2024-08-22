@@ -10,4 +10,4 @@ Using Docker compose as well for easily deploy development server, running funct
 Github actions is configured to manage Continuous integration tasks such as running functional tests after pushing the repository.
 The project contains API endpoint documentation.
 
-The goal of the project is gain more knowledge regarding Python Django Rest API, funvtional tests and developing in Docker container including CI/CD configurations as well. 
+The goal of the project is gain more knowledge regarding Python Django Rest API, functional tests and developing in Docker container including CI/CD configurations as well. 
