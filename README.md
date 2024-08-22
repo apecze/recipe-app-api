@@ -2,6 +2,8 @@
 
 WORK IN PROGRESS
 
+This Project is based on: https://www.udemy.com/course/django-python-advanced/?couponCode=SKILLS4SALEB
+
 Recipe API Project based on Python Django REST Framework
 This web application is created in a docker container.
 Using Docker compose as well for easily deploy development server, running functional tests and many more commands that is making the development tasks very easy.
